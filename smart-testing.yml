@@ -1,0 +1,3 @@
+mode: selecting
+strategies: new,changed,affected
+applyTo: surefire
